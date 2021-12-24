@@ -467,7 +467,7 @@ a:focus {
     padding: 4rem 0;
     color: #ccc;
     text-align: center;
-    background: #233b6f;
+    background: #ffffff;
 }
 
 #footer a,
@@ -480,22 +480,22 @@ a:focus {
     margin-bottom: 1rem;
 }
 
-#footer .social li .facebook:hover,
+#footer .social li .facebook,
 #footer .social li .facebook:focus {
     color: #3b5998
 }
 
-#footer .social li .twitter:hover,
+#footer .social li .twitter,
 #footer .social li .twitter:focus {
     color: #00aced
 }
 
-#footer .social li .google-plus:hover,
+#footer .social li .google-plus,
 #footer .social li .google-plus:focus {
     color: #d34836
 }
 
-#footer .social li .dribbble:hover,
+#footer .social li .dribbble,
 #footer .social li .dribbble:focus {
     color: #ea4c89
 }
